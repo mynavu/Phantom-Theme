@@ -4,6 +4,7 @@
   "description": "a VS Code theme.",
   "version": "0.0.1",
 	"publisher": "MynaVu",
+  "icon": "icon.jpg",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/mynavu/Phantom-Theme"

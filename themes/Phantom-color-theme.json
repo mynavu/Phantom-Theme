@@ -152,7 +152,7 @@
 		"editorHoverWidget.highlightForeground": "#e0def4",
 		"editorHoverWidget.statusBarBackground": "#0000",
 		"editorInfo.border": "#26233a",
-		"editorInfo.foreground": "#9ccfd8",
+		"editorInfo.foreground": "#d4dcff",
 		"editorInlayHint.background": "#26233a80",
 		"editorInlayHint.foreground": "#908caa80",
 		"editorInlayHint.parameterBackground": "#26233a80",
@@ -571,7 +571,7 @@
 		{
 			"scope": ["meta.tag", "meta.brace"],
 			"settings": {
-				"foreground": "#91a5f6"
+				"foreground": "#ffceaf"
 			}
 		},
 		{
