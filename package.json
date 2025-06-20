@@ -2,14 +2,20 @@
   "name": "phantom-theme",
   "displayName": "Phantom Theme",
   "description": "a VS Code theme.",
-  "version": "0.0.1",
-	"publisher": "MynaVu",
+  "version": "0.1.0",
+  "publisher": "MynaVu",
   "icon": "icon.jpg",
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/mynavu/Phantom-Theme"
-	},
-	"keywords": ["theme", "dark theme", "phantom", "phantom theme", "phantom dark"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mynavu/Phantom-Theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "phantom",
+    "phantom theme",
+    "phantom dark"
+  ],
   "engines": {
     "vscode": "^1.101.0"
   },
