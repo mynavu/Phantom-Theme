@@ -2,7 +2,7 @@
   "name": "phantom-theme",
   "displayName": "Phantom Theme",
   "description": "A cold and pastel dark theme for VS Code",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "MynaVu",
   "icon": "icon.jpg",
   "repository": {
