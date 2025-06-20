@@ -1,10 +1,9 @@
 # phantom-theme README
-
-## Working with Markdown
-
 ## Screenshot
 
 ![image alt](screenshot.png)
+
+## Working with Markdown
 
 You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
 
