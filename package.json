@@ -2,7 +2,7 @@
   "name": "phantom-theme",
   "displayName": "Phantom Theme",
   "description": "a VS Code theme.",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "publisher": "MynaVu",
   "icon": "icon.jpg",
   "repository": {
