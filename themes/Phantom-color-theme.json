@@ -152,7 +152,7 @@
 		"editorHoverWidget.highlightForeground": "#e0def4",
 		"editorHoverWidget.statusBarBackground": "#0000",
 		"editorInfo.border": "#26233a",
-		"editorInfo.foreground": "#d4dcff",
+		"editorInfo.foreground": "#d5f6ff",
 		"editorInlayHint.background": "#26233a80",
 		"editorInlayHint.foreground": "#908caa80",
 		"editorInlayHint.parameterBackground": "#26233a80",
@@ -487,13 +487,13 @@
 		{
 			"scope": ["constant.numeric", "constant.language"],
 			"settings": {
-				"foreground": "#ffc3d3"
+				"foreground": "#ffd7e2"
 			}
 		},
 		{
 			"scope": ["entity.name"],
 			"settings": {
-				"foreground": "#ffc3d3"
+				"foreground": "#ffd7e2"
 			}
 		},
 		{
@@ -504,7 +504,7 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"foreground": "#ffd7e2"
+				"foreground": "#ffd3cd"
 			}
 		},
 		{
@@ -535,7 +535,7 @@
 		{
 			"scope": ["markup.inserted.diff"],
 			"settings": {
-				"foreground": "#ffd7e2"
+				"foreground": "#ffd3cd"
 			}
 		},
 		{
@@ -571,7 +571,7 @@
 		{
 			"scope": ["meta.tag", "meta.brace"],
 			"settings": {
-				"foreground": "#ffceaf"
+				"foreground": "#ffb8d8"
 			}
 		},
 		{
@@ -590,7 +590,7 @@
 		{
 			"scope": "meta.property-name.css",
 			"settings": {
-				"foreground": "#ffd7e2"
+				"foreground": "#ffd3cd"
 			}
 		},
 		{
@@ -644,7 +644,7 @@
 		{
 			"scope": ["support"],
 			"settings": {
-				"foreground": "#ffd7e2"
+				"foreground": "#ffd3cd"
 			}
 		},
 		{
@@ -663,7 +663,7 @@
 		{
 			"scope": ["variable"],
 			"settings": {
-				"foreground": "#ffc3d3",
+				"foreground": "#ffd7e2",
 				"fontStyle": "italic"
 			}
 		},
