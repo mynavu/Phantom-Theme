@@ -159,7 +159,7 @@
 		"editorInlayHint.parameterForeground": "#c4a7e780",
 		"editorInlayHint.typeBackground": "#26233a80",
 		"editorInlayHint.typeForeground": "#9ccfd880",
-		"editorLightBulb.foreground": "#31748f",
+		"editorLightBulb.foreground": "#fffbd4",
 		"editorLightBulbAutoFix.foreground": "#ffd7e2",
 		"editorLineNumber.activeForeground": "#e0def4",
 		"editorLineNumber.foreground": "#908caa",
@@ -504,7 +504,7 @@
 				"entity.name.type"
 			],
 			"settings": {
-				"foreground": "#ffd3cd"
+				"foreground": "#ffb8d8"
 			}
 		},
 		{
@@ -535,7 +535,7 @@
 		{
 			"scope": ["markup.inserted.diff"],
 			"settings": {
-				"foreground": "#ffd3cd"
+				"foreground": "#ffb8d8"
 			}
 		},
 		{
@@ -571,7 +571,7 @@
 		{
 			"scope": ["meta.tag", "meta.brace"],
 			"settings": {
-				"foreground": "#ffb8d8"
+				"foreground": "#ffd3cd"
 			}
 		},
 		{
@@ -590,7 +590,7 @@
 		{
 			"scope": "meta.property-name.css",
 			"settings": {
-				"foreground": "#ffd3cd"
+				"foreground": "#eb6f92"
 			}
 		},
 		{
@@ -644,7 +644,7 @@
 		{
 			"scope": ["support"],
 			"settings": {
-				"foreground": "#ffd3cd"
+				"foreground": "#ffb8d8"
 			}
 		},
 		{
