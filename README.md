@@ -12,4 +12,6 @@ A cold and pastel dark theme for VS Code. Inspired by Rosé Pine and Luigi's Man
 2. Search for **Phantom Theme** (by Myna Vu) in extensions
 3. Install the theme and choose your variant in `Preferences: Color Theme`
 
-**Enjoy!**
+**Have fun coding!**
+
+<img src="wizard.png" alt="image alt" width="300"/>
