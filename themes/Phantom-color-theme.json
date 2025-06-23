@@ -77,7 +77,7 @@
 		"editor.findRangeHighlightBorder": "#0000",
 		"editor.focusedStackFrameHighlightBackground": "#6e6a8633",
 		"editor.foldBackground": "#6e6a8633",
-		"editor.foreground": "#ffffff",
+		"editor.foreground": "#ffffff", // change
 		"editor.hoverHighlightBackground": "#0000",
 		"editor.inactiveSelectionBackground": "#6e6a861a",
 		"editor.inlineValuesBackground": "#0000",
@@ -138,7 +138,7 @@
 		"editorGroupHeader.noTabsBackground": "#0000",
 		"editorGroupHeader.tabsBackground": "#0000",
 		"editorGroupHeader.tabsBorder": "#0000",
-		"editorGutter.addedBackground": "#bde3ff",
+		"editorGutter.addedBackground": "#D0D9FF",
 		"editorGutter.background": "#191724",
 		"editorGutter.commentRangeForeground": "#26233a",
 		"editorGutter.deletedBackground": "#eb6f92",
@@ -231,7 +231,7 @@
 		"icon.foreground": "#908caa",
 		"input.background": "#26233a80",
 		"input.border": "#6e6a8633",
-		"input.foreground": "#D0D9FF",
+		"input.foreground": "#eae6fe", // change
 		"input.placeholderForeground": "#908caa",
 		"inputOption.activeBackground": "#e4aab9",
 		"inputOption.activeBorder": "#0000",
@@ -248,7 +248,7 @@
 		"keybindingLabel.background": "#26233a",
 		"keybindingLabel.border": "#6e6a8666",
 		"keybindingLabel.bottomBorder": "#6e6a8666",
-		"keybindingLabel.foreground": "#c4a7e7",
+		"keybindingLabel.foreground": "#D0D9FF", // purple
 		"keybindingTable.headerBackground": "#26233a",
 		"keybindingTable.rowsBackground": "#1f1d2e",
 		"list.activeSelectionBackground": "#6e6a8633",
@@ -339,7 +339,7 @@
 		"peekViewTitle.background": "#26233a",
 		"peekViewTitleDescription.foreground": "#908caa",
 		"pickerGroup.border": "#6e6a8666",
-		"pickerGroup.foreground": "#c4a7e7",
+		"pickerGroup.foreground": "#D0D9FF",// purple
 		"ports.iconRunningProcessForeground": "#ffd7e2",
 		"problemsErrorIcon.foreground": "#eb6f92",
 		"problemsInfoIcon.foreground": "#bde3ff",
@@ -348,8 +348,8 @@
 		"quickInput.background": "#1f1d2e",
 		"quickInput.foreground": "#908caa",
 		"quickInputList.focusBackground": "#6e6a8633",
-		"quickInputList.focusForeground": "#D0D9FF",
-		"quickInputList.focusIconForeground": "#D0D9FF",
+		"quickInputList.focusForeground": "#eae6fe", // change
+		"quickInputList.focusIconForeground": "#eae6fe", // change
 		"scrollbar.shadow": "#1f1d2e4d",
 		"scrollbarSlider.activeBackground": "#31748f80",
 		"scrollbarSlider.background": "#6e6a8633",
