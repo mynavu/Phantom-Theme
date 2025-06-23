@@ -1,4 +1,4 @@
-# phantom-theme README
+# Phantom Theme 🎐
 
 A cold and pastel dark theme for VS Code. Inspired by Rosé Pine and Luigi's Mansion.
 
@@ -14,4 +14,4 @@ A cold and pastel dark theme for VS Code. Inspired by Rosé Pine and Luigi's Man
 
 **Have fun coding!**
 
-<img src="wizard.png" alt="image alt" width="300"/>
+<img src="wizard.png" alt="image alt" width="250"/>
