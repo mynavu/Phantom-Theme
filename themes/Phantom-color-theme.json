@@ -428,22 +428,22 @@
 		"tab.unfocusedHoverBackground": "#0000",
 		"tab.unfocusedInactiveBackground": "#0000",
 		"tab.unfocusedInactiveModifiedBorder": "#bde3ff9b",
-		"terminal.ansiBlack":"#bdbdbd",
-        "terminal.ansiBrightBlack": "#dadada",
-        "terminal.ansiWhite": "#ffffff",
-        "terminal.ansiBrightWhite": "#ffffff",
-        "terminal.ansiBlue":"#a9dbff",
-        "terminal.ansiBrightBlue": "#cae7ff",
-        "terminal.ansiCyan": "#b4f9ff",
-        "terminal.ansiBrightCyan":"#cbfbff",
-        "terminal.ansiGreen": "#d5ffc0",
-        "terminal.ansiBrightGreen": "#e1ffd9",
-        "terminal.ansiMagenta": "#ffc1ff",
-        "terminal.ansiBrightMagenta": "#ffddff",
-        "terminal.ansiRed": "#ffaeae",
-        "terminal.ansiBrightRed": "#ffcfcf",
-        "terminal.ansiYellow": "#fffc9b",
-        "terminal.ansiBrightYellow": "#fffbd4",
+		"terminal.ansiBlack": "#57527a",         // 0
+		"terminal.ansiRed": "#ffb8d8",           // 1
+		"terminal.ansiGreen": "#bde3ff",         // 2
+		"terminal.ansiYellow": "#fffbd4",        // 3
+		"terminal.ansiBlue": "#d0d9ff",          // 4
+		"terminal.ansiMagenta": "#ffd7e2",       // 5
+		"terminal.ansiCyan": "#97caff",          // 6
+		"terminal.ansiWhite": "#d9d3f4",         // 7
+		"terminal.ansiBrightBlack": "#827da2",   // 8
+		"terminal.ansiBrightRed": "#fdcce2",     // 9
+		"terminal.ansiBrightGreen": "#d0ebff",   // 10
+		"terminal.ansiBrightYellow": "#fffdef",  // 11
+		"terminal.ansiBrightBlue": "#e6ebff",    // 12
+		"terminal.ansiBrightMagenta": "#ffe4eb", // 13
+		"terminal.ansiBrightCyan": "#b6dbff",    // 14
+		"terminal.ansiBrightWhite": "#eae6fe",   // 15
 		"terminal.dropBackground": "#6e6a8633",
 		"terminal.foreground": "#eae6fe", // change
 		"terminal.selectionBackground": "#6e6a8633",
